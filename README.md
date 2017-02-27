@@ -69,7 +69,7 @@ https://www.helingqi.com/archives/qiugreen-themes-modify-native-comments-for-mor
 
 3.为保证页面整洁，建议**每页文章数目**为9（3的n次方即可。）
 
-4.如有问题，加入【禾令奇博客】交流群反馈<a href="https://jq.qq.com/?_wv=1027&k=42u2e6P" target="_blank"><img src="//m.helingqi.com/themes/Inlove/images/group.png" title="点击加入【禾令奇博客】交流群" alt="禾令奇CLUB"></a>
+4.如有问题，<a href="https://jq.qq.com/?_wv=1027&k=42u2e6P" target="_blank">加入【禾令奇博客】交流群反馈</a>
 
 
   [1]: https://cdn.helingqi.com/images/2016/11/4116976341.jpg
