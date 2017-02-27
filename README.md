@@ -1,7 +1,7 @@
 # QiuGreen
 QiuGreen,a Typecho Theme.
 
-<img src="https://cdn.helingqi.com/images/2016/11/4116976341.jpg" />
+<img src="//raw.githubusercontent.com/Hegreen/QiuGreen/master/screenshot.png" />
 
 ##更新历史##
 
