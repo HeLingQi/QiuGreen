@@ -73,6 +73,6 @@ https://www.helingqi.com/archives/qiugreen-themes-modify-native-comments-for-mor
 
 
   [1]: https://cdn.helingqi.com/images/2016/11/4116976341.jpg
-  [2]: https://www.helingqi.com/archives/2017/01/21/qiugreen-theme-update-to-111.html
+  [2]: https://www.helingqi.com/archives/qiugreen-theme-update-to-111.html
   [3]: https://www.lpoi.me
   [4]: https://cdn.helingqi.com/expression/paopao/%E5%93%88%E5%93%88.png
